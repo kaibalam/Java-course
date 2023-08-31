@@ -1,0 +1,16 @@
+
+c
+java:S1192	"MDefine a constant instead of duplicating this literal "aleatorio = " 3 times.(´¡àô
+0
+java:S1220""Move this file to a named package.
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(´¡àô
+N	java:S106"9Replace this use of System.out or System.err by a logger.(´¡àô
+N	java:S106"9Replace this use of System.out or System.err by a logger.(´¡àô
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¶¶±ôüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ¶ñ†
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ü­Û©ýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÖŒÈøÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(‡ƒ®÷
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(üÄ‹›
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(Ñ¶ñ†
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(Ú™üž8ñ¸žŽò0

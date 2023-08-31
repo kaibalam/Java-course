@@ -1,0 +1,12 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ú˜ÏÒüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(±Ù‚—
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´äœÀøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(†¯…õıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Í’¨Ó
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¤Øü
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(±Ù‚—
+p
+java:S1128"NRemove this unused import 'org.rvalenzuela.java.jdbc.util.ConexionBasedDatos'.(óÍš¶şÿÿÿÿ8µù£¸ú0
+B
+java:S1128	"%Remove this unused import 'java.sql'.(´İ…Å8µù£¸ú0

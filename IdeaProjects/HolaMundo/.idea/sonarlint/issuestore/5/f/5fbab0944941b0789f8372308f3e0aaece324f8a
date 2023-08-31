@@ -1,0 +1,25 @@
+
+f
+java:S1192+"IDefine a constant instead of duplicating this literal "total = " 3 times.(‰ÆÇÜ8ø¯Âªû0
+0
+java:S1220""Move this file to a named package.
+Q
+java:S1854";Remove this useless assignment to local variable "espacio".(ß…¥ü
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÚÕµğÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¯¤¬ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(±ãğ‡ÿÿÿÿÿ
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(å…ëàÿÿÿÿÿ
+M	java:S106
+"9Replace this use of System.out or System.err by a logger.(ùšÍe
+N	java:S106"9Replace this use of System.out or System.err by a logger.(®÷¥“
+B
+java:S1481",Remove this unused "espacio" local variable.(ß…¥ü
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÒÚÒÃùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ËÎö¯
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Àïúï
+N	java:S106"9Replace this use of System.out or System.err by a logger.(§ê¸Á
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ù–†ã
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(‰ÆÇÜ
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(‰ÆÇÜ
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(‰ÆÇÜ
+M	java:S1069"9Replace this use of System.out or System.err by a logger.(Äş!

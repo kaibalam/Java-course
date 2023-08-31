@@ -1,0 +1,14 @@
+
+0
+java:S1220""Move this file to a named package.
+T
+java:S1854">Remove this useless assignment to local variable "intObjeto2".(­í¸„
+E
+java:S1481"/Remove this unused "intObjeto2" local variable.(­í¸„
+N	java:S106"9Replace this use of System.out or System.err by a logger.(÷†¤ä
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(°¹þã
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¸´›èÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(³›¿žùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ý­Ö§üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ù¢°†üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(íÒ¼ä

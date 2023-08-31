@@ -1,0 +1,18 @@
+
+0
+java:S1220""Move this file to a named package.
+M
+java:S1854"7Remove this useless assignment to local variable "dtf".(Ž„Æˆ
+M
+java:S1854
+"7Remove this useless assignment to local variable "sdf".(Ñ˜ŸÑ
+T
+java:S1854"9Remove this useless assignment to local variable "today".(»åŒŠøÿÿÿÿ
+E
+java:S1481"*Remove this unused "today" local variable.(»åŒŠøÿÿÿÿ
+>
+java:S1481
+"(Remove this unused "sdf" local variable.(Ñ˜ŸÑ
+>
+java:S1481"(Remove this unused "dtf" local variable.(Ž„Æˆ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‚ÓËšýÿÿÿÿ

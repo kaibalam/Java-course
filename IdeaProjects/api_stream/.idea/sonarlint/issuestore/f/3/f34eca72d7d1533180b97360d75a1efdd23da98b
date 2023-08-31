@@ -1,0 +1,17 @@
+
+7
+java:S3864"!Remove this use of "Stream.peek".(ë™ªÅ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ë™ªÅ
+V	java:S125"<This block of commented-out lines of code should be removed.(ö·§Ÿþÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÔÔÚõþÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(‘öŠ±
+N	java:S106"9Replace this use of System.out or System.err by a logger.(©ÚË
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Á­„òùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(²„‘Ü
+S	java:S106"9Replace this use of System.out or System.err by a logger.(«Í®ûÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+J
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷Ž”

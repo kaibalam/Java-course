@@ -1,0 +1,13 @@
+
+n
+java:S1192"SDefine a constant instead of duplicating this literal "Ricardo Valenzuela" 3 times.(Ø¨æÒüÿÿÿÿ
+b
+java:S3959"GRefactor this code so that this consumed stream pipeline is not reused.(·²‘™ùÿÿÿÿ
+7
+java:S3864"!Remove this use of "Stream.peek".(×—åÇ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(×—åÇ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(·²‘™ùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¿…½æ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ñš·®øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Í··ä
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¿Ïó¸þÿÿÿÿ

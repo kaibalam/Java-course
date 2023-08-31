@@ -1,0 +1,9 @@
+
+7
+java:S3864"!Remove this use of "Stream.peek".(ßˆ±ö
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ßˆ±ö
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‹ÊŽ–ùÿÿÿÿ
+e
+java:S1128"ORemove this unused import 'org.rvalenzuela.api.stream.ejemplos.models.Usuario'.(ÑÉ´Û
+J
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëÝüÿÿÿÿ

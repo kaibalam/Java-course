@@ -1,0 +1,33 @@
+
+^
+java:S6208"CMerge the previous cases into this one using comma-separated label.(—Í×©øÿÿÿÿ
+^
+java:S6208"CMerge the previous cases into this one using comma-separated label.(©Ğ‘şÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+D
+java:S1940!")Use the opposite operator ("!=") instead.(¢ÒŞÜúÿÿÿÿ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(«ì
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(ïéÊ¶úÿÿÿÿ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(ÆıÒÇûÿÿÿÿ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(«ùı«şÿÿÿÿ
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(ıÌùøÿÿÿÿ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(©ğ¶‡ùÿÿÿÿ
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(ß¶½£ùÿÿÿÿ
+M	java:S106H"9Replace this use of System.out or System.err by a logger.(´™¹<
+G
+java:S1128"1Remove this unused import 'java.text.DateFormat'.(÷Œá¼
+N
+java:S1128"8Remove this unused import 'java.text.DateFormatSymbols'.(é”Ìñ
+C
+java:S1128"-Remove this unused import 'java.text.Format'.(¨Ô¬ş
+K
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ
+C
+java:S1128"-Remove this unused import 'java.time.ZoneId'.( Æ½“
+U
+java:S1128"?Remove this unused import 'java.time.format.DateTimeFormatter'.(‰÷÷ª
+\
+java:S1128"FRemove this unused import 'java.time.format.DateTimeFormatterBuilder'.(æëë¸
+O
+java:S1128	"9Remove this unused import 'java.time.format.FormatStyle'.(óóÿ½

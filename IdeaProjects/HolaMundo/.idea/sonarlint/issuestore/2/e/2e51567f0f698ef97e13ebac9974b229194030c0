@@ -1,0 +1,44 @@
+
+0
+java:S1220""Move this file to a named package.
+
+java:S4165"dRemove this useless assignment; "longer" already holds the assigned value along all execution paths.(ÆÚ•¶üÿÿÿÿ
+U
+java:S1854*":Remove this useless assignment to local variable "userId".(ğÚºñøÿÿÿÿ
+U
+java:S1854)":Remove this useless assignment to local variable "status".(¿Æ·„ÿÿÿÿÿ
+W
+java:S1854("<Remove this useless assignment to local variable "operator".(…ŞÕ¥üÿÿÿÿ
+U
+java:S1854'":Remove this useless assignment to local variable "obsrns".(úáŞäıÿÿÿÿ
+Y
+java:S1854&">Remove this useless assignment to local variable "excepCause".(Ã›’ÿÿÿÿÿ
+S
+java:S1854%"8Remove this useless assignment to local variable "imsi".(–¥Ãşÿÿÿÿ
+P
+java:S1854$":Remove this useless assignment to local variable "msisdn".(¬¼ö§
+N
+java:S1854#"8Remove this useless assignment to local variable "imei".(„öÊŠ
+J
+java:S1656"/Remove or correct this useless self-assignment.(ÆÚ•¶üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(´Ÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ô©½ìüÿÿÿÿ
+?
+java:S1481#")Remove this unused "imei" local variable.(„öÊŠ
+A
+java:S1481$"+Remove this unused "msisdn" local variable.(¬¼ö§
+D
+java:S1481%")Remove this unused "imsi" local variable.(–¥Ãşÿÿÿÿ
+J
+java:S1481&"/Remove this unused "excepCause" local variable.(Ã›’ÿÿÿÿÿ
+F
+java:S1481'"+Remove this unused "obsrns" local variable.(úáŞäıÿÿÿÿ
+H
+java:S1481("-Remove this unused "operator" local variable.(…ŞÕ¥üÿÿÿÿ
+F
+java:S1481)"+Remove this unused "status" local variable.(¿Æ·„ÿÿÿÿÿ
+F
+java:S1481*"+Remove this unused "userId" local variable.(ğÚºñøÿÿÿÿ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(Àš†ì
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(Å¸«ü
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8óû÷îî0

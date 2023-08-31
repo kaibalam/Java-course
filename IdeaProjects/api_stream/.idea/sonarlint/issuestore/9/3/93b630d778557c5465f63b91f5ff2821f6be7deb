@@ -1,0 +1,13 @@
+
+g	java:S112$"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÆË¨ğ0
+a
+java:S1192"KDefine a constant instead of duplicating this literal "Valenzuela" 3 times.(ö”£
+C
+java:S3864"!Remove this use of "Stream.peek".(Û«½Ïøÿÿÿÿ8äË¨ğ0
+G
+java:S1602",Remove useless curly braces around statement(Û«½Ïøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ó«ÃŒ
+{
+java:S2142#"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8èË¨ğ0
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(Ä¾Êµ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(­ç­ùÿÿÿÿ
